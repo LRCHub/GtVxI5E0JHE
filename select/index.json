@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "THE SHADE",
+  "base_artist": "Rex Orange County",
+  "createdAt": "2026-02-25T05:34:22.634658Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Place in the Shade",
+      "artist": "Dean Martin",
+      "has_synced": true,
+      "path": "select/01_A_Place_in_the_Shade_Dean_Martin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Made In The Shade",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/02_Made_In_The_Shade_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Made In The Shade",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/03_Made_In_The_Shade_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Putting You In The Shade",
+      "artist": "Hugh Cornwell",
+      "has_synced": false,
+      "path": "select/04_Putting_You_In_The_Shade_Hugh_Cornwell.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Shade",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/05_The_Shade_Metric.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "99 In The Shade",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/06_99_In_The_Shade_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "99 In The Shade",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/07_99_In_The_Shade_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sunshine in the Shade",
+      "artist": "The Fixx",
+      "has_synced": true,
+      "path": "select/08_Sunshine_in_the_Shade_The_Fixx.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In the Shade",
+      "artist": "Labyrinth",
+      "has_synced": true,
+      "path": "select/09_In_the_Shade_Labyrinth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Shade In The Shadow",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/10_The_Shade_In_The_Shadow_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stay In The Shade",
+      "artist": "José González",
+      "has_synced": true,
+      "path": "select/11_Stay_In_The_Shade_José_González.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stay In The Shade",
+      "artist": "José Gonzáles",
+      "has_synced": true,
+      "path": "select/12_Stay_In_The_Shade_José_Gonzáles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In the Shade of the Sun",
+      "artist": "Saraya",
+      "has_synced": true,
+      "path": "select/13_In_the_Shade_of_the_Sun_Saraya.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "1865 (96º In the Shade)",
+      "artist": "Third World",
+      "has_synced": true,
+      "path": "select/14_1865_(96o_In_the_Shade)_Third_World.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Devil In The Shade",
+      "artist": "The Draft",
+      "has_synced": false,
+      "path": "select/15_Devil_In_The_Shade_The_Draft.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE SHADE",
+      "artist": "Rex Orange County",
+      "has_synced": false,
+      "path": "select/pl_01_THE_SHADE_Rex_Orange_County.txt"
+    }
+  ]
+}
